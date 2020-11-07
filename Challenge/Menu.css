@@ -1,0 +1,373 @@
+.div1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 5px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.div2{
+    background-color: red;
+    color: red;
+    float: left;
+    height: 30px;
+    width: 500px;
+    margin-top: -25px;
+}
+.div3{
+    background-color: red;
+    color: red;
+    float: right;
+    height: 30px;
+    width: 500px;
+    margin-top: -25px;
+}
+.div4{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    margin-right: 270px;
+    font-size: 16px;
+}
+.div5{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div6{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 180px;
+    font-size: 16px;
+}
+.div7{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div8{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 255px;
+    font-size: 16px;
+}
+.div9{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div10{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 135px;
+    font-size: 16px;
+}
+.div11{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div12{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 240px;
+    font-size: 16px;
+}
+.div13{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div14{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 230px;
+    font-size: 16px;
+}
+.div15{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div16{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 200px;
+    font-size: 16px;
+}
+.div17{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div18{
+    color: white;
+    float: right;
+    margin-right: -600px;
+    font-family: Apple Chancery, cursive;
+    font-size: 13px;
+}
+.div19{
+    background-color: red;
+    color: red;
+    float: left;
+    height: 30px;
+    width: 600px;
+    margin-top: 30px;
+}
+.div20{
+    background-color: red;
+    color: red;
+    float: right;
+    height: 30px;
+    width: 600px;
+    margin-top: 10px;
+}
+.div21{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 30px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.div22{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+    margin-right: 380px;
+    font-size: 16px;
+}
+.div23{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    top: -17px;
+    font-size: 16px;
+}
+.div24{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 350px;
+    font-size: 16px;
+}
+.div25{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div26{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 280px;
+    font-size: 16px;
+}
+.div27{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    position: relative;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div28{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 290px;
+    font-size: 16px;
+}
+.div29{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div30{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 290px;
+    font-size: 16px;
+}
+.div31{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div32{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 310px;
+    font-size: 16px;
+}
+.div33{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div34{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 18px;
+    margin-right: 290px;
+    font-size: 16px;
+}
+.div35{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div36{
+    background-color: red;
+    color: red;
+    float: left;
+    height: 30px;
+    width: 550px;
+    margin-top: 30px;
+}
+.div37{
+    background-color: red;
+    color: red;
+    float: right;
+    height: 30px;
+    width: 600px;
+    margin-top: 30px;
+}
+.div38{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 30px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.div39{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+    margin-right: 340px;
+    font-size: 16px;
+}
+.div40{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div41{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 330px;
+    font-size: 16px;
+}
+.div42{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div43{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 375px;
+    font-size: 16px;
+}
+.div44{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div45{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 320px;
+    font-size: 16px;
+}
+.div46{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.div47{
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 385px;
+    font-size: 16px;
+}
+.div48{
+    color: white;
+    float: right;
+    margin-right: 550px;
+    margin-top: -17px;
+    font-size: 16px;
+}

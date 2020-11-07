@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulaire</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form method="POST">
+            <label for="Text">Texte sur plusieurs lignes:</label><br>
+            <textarea id="Text">Texte par défaut</textarea><br><br><br>
+
+            <label for="name">Champ texte<br>Nom:</label>
+            <input type="text" id="name" placeholder="38"><br><br><br>
+
+            <label for="nom">Champ texte avec affichage<br>Rang:</label>
+            <input type="text" id="nom"><br><br><br>
+
+            Boutons à choix unique:
+            <input type="radio" id="nombre" name="chiffre" value="1">
+            <label for="nombre">1*</label>
+            <input type="radio" id="nombre" name="chiffre" value="2">
+            <label for="nombre">2</label>
+            <input type="radio" id="nombre" name="chiffre" value="3">
+            <label for="nombre">3</label>
+            <input type="radio" id="nombre" name="chiffre" value="4">
+            <label for="nombre">4</label><br><br><br>
+
+            ... à choix multiples(case à cocher):<br>
+            <input type="checkbox" id="case" name="case" value="A">
+            <label id="case">A</label>
+            <input type="checkbox" id="case" name="case" value="B">
+            <label id="case">B</label>
+            <input type="checkbox" id="case" name="case" value="C">
+            <label id="case">C</label><br><br><br>
+
+            Liste à choix unique (V R B)
+            <select name="colors">
+                <option value="Vert">Vert</option>
+                <option value="Rouge">Rouge</option>
+                <option value="Blue">Blue</option>
+            </select><br><br><br>
+
+            Liste à choix multiple
+            <select multiple="True">
+                <option value="lundi">Lundi</option>
+                <option value="Mardi">Mardi</option>
+                <option value="Jeudi">Jeudi</option>
+            </select><br><br><br>
+
+            <input type="submit" value="Envoi">
+            <input type="submit" value="Recommencer">
+        </form>
+    </body>
+</html>

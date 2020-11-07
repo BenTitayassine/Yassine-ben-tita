@@ -1,0 +1,29 @@
+body{
+    font-size: 16px;
+    font-family: verdana serif;
+}
+#first-one{
+    padding: 20px;
+    margin: 10px 0px;
+}
+#last-one{
+    background-color: #CCC;
+    color: #ff10cd;
+    padding: 20px;
+    margin: 10px 0px;
+}
+legend{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+#Nom,#Prenom,#date,#Text,#CP,#email,#URL{
+    width: 300px;
+    height: 20px;
+    float: right;
+    margin-right: 300px;
+}
+#FS1{
+    padding: 50px;
+    padding-top: 90px;
+}

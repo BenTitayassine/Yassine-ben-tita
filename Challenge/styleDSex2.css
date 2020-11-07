@@ -1,0 +1,13 @@
+td{
+    border: 1px solid;
+    text-align: center;
+}
+#bachoula{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.MMT{
+    text-decoration: underline dotted;
+}

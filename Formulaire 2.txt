@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulaire</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style4.css">
+    </head>
+    <body>
+        <h1>Les formulaires</h1>
+        <form method="POST" action="traitement.php">
+            <label for="prenom">Entrez votre prenom</label>
+            <input type="text" name="prenom" id="prenom" autocomplete="on">
+            
+            <input type="submit" value="Envoyer">
+        </form>
+    </body>
+</html>

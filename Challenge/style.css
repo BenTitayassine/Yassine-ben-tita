@@ -1,0 +1,27 @@
+html{
+    background-color:yellow;
+}
+.p1{
+  display: block ;
+  background: #c00 ;
+  color: #fff ;
+  text-align: center ;
+  padding: 3px;
+}
+p{
+   display: inline;
+   text-align: center ;
+   font-size: 18px;
+
+} 
+div{
+    word-spacing: 8px;
+    display: inline;
+}
+.div1{
+    word-spacing: 08pxS;
+}
+.p2{
+    word-spacing: 100px;
+    float: right;
+}

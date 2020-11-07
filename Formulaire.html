@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulaire</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style4.css">
+    </head>
+    <body>
+        <h1>Les formulaires</h1>
+        <form method="POST" action="traitement.php">
+            Où habitez vous ?<br>
+            <select>
+                <optgroup label="Europe">
+                    <option>France</option>
+                    <option>Bélgique</option>
+                    <option>Italie</option>
+                </optgroup>
+                <optgroup label="Amérique">
+                    <option>Canada</option>
+                    <option>Brézil</option>
+                </optgroup>
+                <optgroup label="Afrique">
+                    <option>Tunisie</option>
+                    <option>Maroc</option>
+                    <option>Algérie</option>
+                </optgroup>
+            </select><br><br>
+            homme et femme ? <br>
+            <input type="radio" id="homme" name="sexe" value="homme">
+            <label for="homme">Un homme</label><br>
+            <input type="radio" id="femme" name="sexe" value="femme">
+            <label for="femme">Une femme</label><br><br>
+            
+            Majeur ou mineur ? <br>
+            <input type="radio" id="Majeur" name="age" value="Majeur">
+            <label for="Majeur">Majeur</label><br>
+            <input type="radio" id="Mineur" name="age" value="Mineur">
+            <label for="Mineur">Mineur</label><br><br>
+
+            Quel(s) sport(s) pratiquez vous?<br>
+            <input type="checkbox" name="sport" id="natation" value="natation">
+            <label for="natation">Natation</label><br>
+            <input type="checkbox" name="sport" value="course" id="course">
+            <label for="course">Course a pied</label><br>
+            <input type="checkbox" name="sport" value="velo" id="velo">
+            <label for="velo">Velo</label><br><br>
+
+            <label for="prez">Une petite présentation ?</label>
+            <textarea id="prez" name="presentation"></textarea><br>
+
+            <input type="submit" value="Envoyer">
+        </form>
+    </body>
+</html>
